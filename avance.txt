@@ -1,0 +1,3 @@
+Hemos avanzado, hemos logrado conectarnos de forma remota, y nuestro 
+README.md ya puede ser visualizado desde github.
+Aun queda un largo camino por recorrer.
