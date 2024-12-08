@@ -1,1 +1,8 @@
+
+Hemos avanzado, hemos logrado conectarnos de forma remota, y nuestro 
+README.md ya puede ser visualizado desde github.
+Aun queda un largo camino por recorrer.
+Avanzamos en la practica a un ritmo vertiginoso.
+
+
 Avance de la rama main, vamos a intentar generar un conflicto
