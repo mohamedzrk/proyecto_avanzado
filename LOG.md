@@ -55,6 +55,7 @@ En la edición quitamos las líneas de texto que se han añadido automáticament
 
 <<<<<<< HEAD
 (texto de avance.txt de la rama main)
+
 =======
 (texto de avance.txt de la rama feature/avances)
 >>>>>>> feature/avances
