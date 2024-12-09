@@ -76,4 +76,6 @@ git clone https://github.com/mohamedzrk/proyecto_avanzado.git
 -Finalmente podemos comprobar que el estado del repositorio clonado coincide con el del repositorio remoto.
 
 
-
+-Dificultades:
+La unica dificultad significativa que he tenido ha sido la resolución al conflicto generado por la fusión y la conexión mediante ssh, en las demás tareas no he encontrado dificultad y he podido solucionarlas haciendo busquedas en internet para
+utilizar los comandos correctos.
